@@ -9,3 +9,4 @@
 - Mathis Silotia
 
 - Matthias Naert
+- Clément Hervouet
