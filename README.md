@@ -6,6 +6,10 @@
 
 - Intervenant : Loïc VANDERSCHOOTEN
 
-- Luc-Alexandre JOLY
+- Participant : Luc-Alexandre JOLY
 
 - Florentin CHARBONNEAU
+- Mathis Silotia
+
+- Matthias Naert
+- Clément Hervouet
