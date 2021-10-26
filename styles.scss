@@ -1,0 +1,14 @@
+$primary: #48b156;
+
+h1{
+    color: $primary;
+}
+
+.box{
+    background-color: lighten($color: $primary, $amount: 40);
+
+    p{
+        color : $primary;
+        font-style: italic;
+    }
+}
