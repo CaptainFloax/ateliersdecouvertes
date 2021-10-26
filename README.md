@@ -5,3 +5,5 @@
 ## Participants
 
 - Intervenant : Loïc VANDERSCHOOTEN
+
+- Clément Hervouet
